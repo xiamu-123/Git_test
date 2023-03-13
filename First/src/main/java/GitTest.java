@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("Hello master");
         System.out.println("Hello hotfix");
         System.out.println("push remote first");
+        System.out.println("push remote second");
     }
 }
