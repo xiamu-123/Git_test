@@ -18,5 +18,6 @@ public class GitTest {
         System.out.println("push remote first");
         System.out.println("push remote second");
         System.out.println("pull remote first");
+        System.out.println("pull remote github third");
     }
 }
